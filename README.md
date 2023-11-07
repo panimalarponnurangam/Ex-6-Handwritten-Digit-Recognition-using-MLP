@@ -151,29 +151,48 @@ def test_prediction(index, W1, b1, W2, b2):
 ## Output :
 Y_TRAIN:
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/8da91884-938f-41eb-9ffe-514bf3d9d79a)
+
+
+
 ITERATIONS FROM 1-100:
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/1baa290b-3350-4feb-a668-062885289441)
+
+
 ITERATIONS FROM 110-230:
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/0295f8c2-0767-4e2d-8a70-d7adfc68b15b)
+
+
 ITERATIONS FROM 240-340:
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/18fc19b0-bb53-4d74-a566-4e355eb58bde)
+
+
 ITERATIONS FROM 350-450:
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/28229625-5f62-4bab-acd5-8299f4dc1a7b)
+
+
 ITERATIONS FROM 460-490:
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/26e0d693-0b1f-47fa-9e3d-652505675da1)
+
+
+
 PREDICTING 5:
 
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/41d8b585-211d-42e9-b99b-9d5b75a5cdbf)
+
+
 PREDICTING 2:
 
 
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/b5caf93a-2b1c-4be0-9932-7378eccdc65b)
+
+
 DEV_PREDICTIONS:
 
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/d960edf3-ccb0-45b4-ac1f-8ade86a10e9a)
 ACCURACY:
 
 ![image](https://github.com/panimalarponnurangam/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/121490826/9bb243aa-550e-408a-9bc1-a124bbd77ff8)
+
 
 
 ## Result:
